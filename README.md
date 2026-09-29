@@ -6,6 +6,8 @@ Skills genéricas do Claude Code para uso pessoal.
 
 ```bash
 npx skills add https://github.com/m1ttes1/my-co-skills --skill melhorar-prompt
+npx skills add https://github.com/m1ttes1/my-co-skills --skill consultor
+npx skills add https://github.com/m1ttes1/my-co-skills --skill humanizer-pt-br
 ```
 
 Plano B (repo privado ou CLI com problema):
@@ -20,6 +22,8 @@ git clone https://github.com/m1ttes1/my-co-skills.git
 | Skill | Uso |
 |---|---|
 | melhorar-prompt | `/melhorar-prompt <texto>` analisa e reescreve prompts com as práticas da Anthropic |
+| consultor | `/consultor` respostas enxutas e formais, direto ao ponto, para comunicação corporativa |
+| humanizer-pt-br | remove marcas de texto gerado por IA em português brasileiro |
 
 ## Agentes de revisão
 
