@@ -10,3 +10,6 @@ desktop.ini
 node_modules/
 __pycache__/
 *.tmp
+
+# Repo-level override: o ignore global do usuario ignora CLAUDE.md
+!CLAUDE.md
